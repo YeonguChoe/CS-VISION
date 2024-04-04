@@ -1,4 +1,4 @@
-# CPSC-425 Computer Vision
+# Computer Vision
 
 ## Topic
 
